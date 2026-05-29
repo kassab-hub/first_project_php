@@ -55,3 +55,20 @@ Events::on('pre_system', static function (): void {
         }
     }
 });
+
+
+Events::on('pre_system', function () {
+    // إذا كان الطلب هو طلب أمان Preflight (OPTIONS)، أرسل الترويسات واقفل الطلب بنجاح فوراً!
+    if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+        header('Access-Control-Allow-Origin: *');
+        header('Access-Control-Allow-Headers: Content-Type, Authorization, X-Requested-With, Origin, Accept');
+        header('Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE');
+        header('HTTP/1.1 200 OK');
+        exit();
+    }
+
+    // لباقي الطلبات العادية (GET, POST...)
+    header('Access-Control-Allow-Origin: *');
+    header('Access-Control-Allow-Headers: Content-Type, Authorization, X-Requested-With, Origin, Accept');
+    header('Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE');
+});

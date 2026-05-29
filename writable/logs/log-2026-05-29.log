@@ -1,0 +1,450 @@
+CRITICAL - 2026-05-29 12:27:46 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 129.
+ 1 APPPATH\Controllers\Product.php(40): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 12:27:59 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 129.
+ 1 APPPATH\Controllers\Product.php(40): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 12:28:13 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 129.
+ 1 APPPATH\Controllers\Product.php(40): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 12:28:14 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 129.
+ 1 APPPATH\Controllers\Product.php(40): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 12:28:16 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 129.
+ 1 APPPATH\Controllers\Product.php(40): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 12:28:47 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 129.
+ 1 APPPATH\Controllers\Product.php(40): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 12:53:58 --> Error: Call to undefined method CodeIgniter\HTTP\Response::setHeaders()
+[Method: GET, Route: product]
+in APPPATH\Controllers\Product.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 12:54:06 --> Error: Call to undefined method CodeIgniter\HTTP\Response::setHeaders()
+[Method: GET, Route: product]
+in APPPATH\Controllers\Product.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 12:54:14 --> Error: Call to undefined method CodeIgniter\HTTP\Response::setHeaders()
+[Method: GET, Route: product]
+in APPPATH\Controllers\Product.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 12:56:41 --> Error: Call to undefined method CodeIgniter\HTTP\Response::setHeaders()
+[Method: OPTIONS, Route: product]
+in APPPATH\Controllers\Product.php on line 101.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->options()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 12:56:47 --> Error: Call to undefined method CodeIgniter\HTTP\Response::setHeaders()
+[Method: OPTIONS, Route: product]
+in APPPATH\Controllers\Product.php on line 101.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->options()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 12:56:48 --> Error: Call to undefined method CodeIgniter\HTTP\Response::setHeaders()
+[Method: OPTIONS, Route: product]
+in APPPATH\Controllers\Product.php on line 101.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->options()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 12:57:01 --> Error: Call to undefined method CodeIgniter\HTTP\Response::setHeaders()
+[Method: OPTIONS, Route: product]
+in APPPATH\Controllers\Product.php on line 101.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->options()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 12:57:03 --> Error: Call to undefined method CodeIgniter\HTTP\Response::setHeaders()
+[Method: OPTIONS, Route: product]
+in APPPATH\Controllers\Product.php on line 101.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->options()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 12:57:22 --> Error: Call to undefined method CodeIgniter\HTTP\Response::setHeaders()
+[Method: OPTIONS, Route: product]
+in APPPATH\Controllers\Product.php on line 101.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->options()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 13:01:17 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(33): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 13:01:18 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(33): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 13:01:19 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(33): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 13:01:42 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(33): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 13:07:24 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(33): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 13:07:47 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/13]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(49): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('13')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 13:07:48 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/12]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(49): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('12')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 13:08:43 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/9]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(49): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('9')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 13:08:44 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/10]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(49): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('10')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 13:08:46 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/11]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(49): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('11')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 13:08:48 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/14]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(49): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('14')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 13:09:18 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(33): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 13:09:39 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(33): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 13:43:15 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(33): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 13:45:00 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(33): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 13:53:13 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/20]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(49): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('20')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 13:53:45 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(33): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 13:54:35 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/21]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(49): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('21')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 13:55:30 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(33): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 14:02:13 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/25]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(49): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('25')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 14:02:19 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 91.
+ 1 APPPATH\Controllers\Product.php(33): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 14:13:00 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/26]
+in APPPATH\Controllers\Product.php on line 104.
+ 1 APPPATH\Controllers\Product.php(62): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('26')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 14:13:28 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/24]
+in APPPATH\Controllers\Product.php on line 104.
+ 1 APPPATH\Controllers\Product.php(62): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('24')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 14:13:51 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 104.
+ 1 APPPATH\Controllers\Product.php(46): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 14:17:42 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/27]
+in APPPATH\Controllers\Product.php on line 114.
+ 1 APPPATH\Controllers\Product.php(72): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('27')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
+CRITICAL - 2026-05-29 14:18:10 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/23]
+in APPPATH\Controllers\Product.php on line 114.
+ 1 APPPATH\Controllers\Product.php(72): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('23')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 14:24:32 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/22]
+in APPPATH\Controllers\Product.php on line 126.
+ 1 APPPATH\Controllers\Product.php(81): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('22')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 14:30:52 --> Error: Class "Pusher\Pusher" not found
+[Method: POST, Route: product]
+in APPPATH\Controllers\Product.php on line 120.
+ 1 APPPATH\Controllers\Product.php(50): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->create()
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-29 14:32:25 --> Error: Class "Pusher\Pusher" not found
+[Method: DELETE, Route: product/28]
+in APPPATH\Controllers\Product.php on line 120.
+ 1 APPPATH\Controllers\Product.php(74): App\Controllers\Product->triggerPusher()
+ 2 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Product->delete('28')
+ 3 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+ 4 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\first_project\\public\\index.php')
